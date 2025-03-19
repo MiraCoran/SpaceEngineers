@@ -12,8 +12,8 @@
             <Prerequisites>
                 <Item Amount="2000" TypeId="Ingot" SubtypeId="Iron"/>
                 <Item Amount="1200" TypeId="Ingot" SubtypeId="Silicon"/>
-                <Item Amount="200" TypeId="Ingot" SubtypeId="Cobalt"/>
-                <Item Amount="160" TypeId="Ingot" SubtypeId="Silver"/>
+                <Item Amount="300" TypeId="Ingot" SubtypeId="Cobalt"/>
+                <Item Amount="200" TypeId="Ingot" SubtypeId="Silver"/>
                 <Item Amount="100" TypeId="Ingot" SubtypeId="Gold"/>
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="Tech2x"/>
@@ -29,7 +29,7 @@
             <Icon>Textures\tech4x.dds</Icon>
             <Prerequisites>
                 <Item Amount="30" TypeId="Component" SubtypeId="Tech2x"/>
-                <Item Amount="600" TypeId="Ingot" SubtypeId="Uranium"/>
+                <Item Amount="500" TypeId="Ingot" SubtypeId="Uranium"/>
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="Tech4x"/>
             <BaseProductionTimeInSeconds>2000</BaseProductionTimeInSeconds>
