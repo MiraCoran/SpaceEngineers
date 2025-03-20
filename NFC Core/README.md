@@ -12,21 +12,13 @@ this mod includes three additional technology tiers to the game, based on [Sandr
 | ***prototech*** | 6x |
 | exotic        | 8x |
 
-to build these higher tech level items requires a number tech components.  these may be built from 
+building higher tiered blocks requires a number of corresponding tech components.  these may be built from:
 
-|technology|multiplier|build cost|
-|----------|----------|----------|
-| advanced tech | 1x   | 2000 fe, 1200 si, 300 co, 200 ag, 100 au | 
-| complex tech  | 30x  | 30x advanced tech + 500 uranium | 
-| exotic tech   | 900x | 30x complex tech + 3,000 platinum |
-
-which gives these total ingot costs *per component*:
-
-|technology|iron|silicon|cobalt|silver|gold|uranium|platinum|
-|---------------|-----------|-----------|---------|---------|--------|--------|-------|
-| advanced tech |     2,000 |     1,200 |     300 |     200 |    100 |     -- |    -- |
-| complex tech  |    60,000 |    36,000 |   9,000 |   6,000 |  3,000 |    500 |    -- |
-| exotic tech   | 1,800,000 | 1,080,000 | 270,000 | 180,000 | 90,000 | 15,000 | 3,000 |
+|technology|build cost||fe|si|co|ag|au|u|pt|
+|----------|----------|-|-----------|-----------|---------|---------|--------|--------|-------|
+| advanced tech | (just ingots)                     |=|     2,000 |     1,200 |     300 |     200 |    100 |      -- |    -- | 
+| complex tech  | 30x advanced tech + 500 uranium   |=|    60,000 |    36,000 |   9,000 |   6,000 |  3,000 | **500** |    -- | 
+| exotic tech   | 30x complex tech + 3,000 platinum |=| 1,800,000 | 1,080,000 | 270,000 | 180,000 | 90,000 |  15,000 | **3,000** | 
 
 ## block durability
 steel and interior plates gain double durability, imparting additional health to anything built from them.  light and heavy armor blocks, steel beams, blast doors, and fps walls all gain 25% damage resistance to damage and reduced deformation.
