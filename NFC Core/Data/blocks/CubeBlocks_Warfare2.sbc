@@ -46,7 +46,7 @@
       <EdgeType>Light</EdgeType>
       <BuildTimeSeconds>60</BuildTimeSeconds>
       <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-      <MaxPowerOutput>22.125</MaxPowerOutput>
+      <MaxPowerOutput>30</MaxPowerOutput>
       <InventorySize>
         <X>1</X>
         <Y>1</Y>
@@ -142,7 +142,7 @@
       <EdgeType>Light</EdgeType>
       <BuildTimeSeconds>150</BuildTimeSeconds>
       <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-      <MaxPowerOutput>450</MaxPowerOutput>
+      <MaxPowerOutput>600</MaxPowerOutput>
       <InventorySize>
         <X>2</X>
         <Y>2</Y>
@@ -335,7 +335,7 @@
       <BuildTimeSeconds>45</BuildTimeSeconds>
       <EdgeType>Light</EdgeType>
       <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-      <MaxPowerOutput>22.125</MaxPowerOutput>
+      <MaxPowerOutput>30</MaxPowerOutput>
       <InventorySize>
         <X>1</X>
         <Y>1</Y>
@@ -971,7 +971,7 @@
       <EdgeType>Light</EdgeType>
       <BuildTimeSeconds>90</BuildTimeSeconds>
       <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-      <MaxPowerOutput>37.5</MaxPowerOutput>
+      <MaxPowerOutput>40</MaxPowerOutput>
       <InventorySize>
         <X>1</X>
         <Y>1</Y>
@@ -1067,7 +1067,7 @@
       <EdgeType>Light</EdgeType>
       <BuildTimeSeconds>225</BuildTimeSeconds>
       <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-      <MaxPowerOutput>750</MaxPowerOutput>
+      <MaxPowerOutput>1200</MaxPowerOutput>
       <InventorySize>
         <X>2</X>
         <Y>2</Y>
@@ -1163,7 +1163,7 @@
       <EdgeType>Light</EdgeType>
       <BuildTimeSeconds>45</BuildTimeSeconds>
       <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-      <MaxPowerOutput>1.25</MaxPowerOutput>
+      <MaxPowerOutput>2</MaxPowerOutput>
       <InventorySize>
         <X>0.5</X>
         <Y>0.5</Y>
@@ -1260,7 +1260,7 @@
       <BuildTimeSeconds>68</BuildTimeSeconds>
       <EdgeType>Light</EdgeType>
       <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-      <MaxPowerOutput>37.5</MaxPowerOutput>
+      <MaxPowerOutput>60</MaxPowerOutput>
       <InventorySize>
         <X>1</X>
         <Y>1</Y>
@@ -1896,7 +1896,7 @@
         <EdgeType>Light</EdgeType>
         <BuildTimeSeconds>135</BuildTimeSeconds>
         <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-        <MaxPowerOutput>60</MaxPowerOutput>
+        <MaxPowerOutput>120</MaxPowerOutput>
         <InventorySize>
             <X>1</X>
             <Y>1</Y>
@@ -1991,7 +1991,7 @@
         <EdgeType>Light</EdgeType>
         <BuildTimeSeconds>338</BuildTimeSeconds>
         <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-        <MaxPowerOutput>1200</MaxPowerOutput>
+        <MaxPowerOutput>2400</MaxPowerOutput>
         <InventorySize>
             <X>2</X>
             <Y>2</Y>
@@ -2086,7 +2086,7 @@
         <EdgeType>Light</EdgeType>
         <BuildTimeSeconds>68</BuildTimeSeconds>
         <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-        <MaxPowerOutput>2.0</MaxPowerOutput>
+        <MaxPowerOutput>4</MaxPowerOutput>
         <InventorySize>
             <X>0.5</X>
             <Y>0.5</Y>
@@ -2182,7 +2182,7 @@
         <BuildTimeSeconds>102</BuildTimeSeconds>
         <EdgeType>Light</EdgeType>
         <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-        <MaxPowerOutput>59</MaxPowerOutput>
+        <MaxPowerOutput>120</MaxPowerOutput>
         <InventorySize>
             <X>1</X>
             <Y>1</Y>
