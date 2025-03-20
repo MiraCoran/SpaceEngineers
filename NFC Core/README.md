@@ -16,8 +16,8 @@ to build these higher tech level items requires a number tech components.  these
 
 |technology|multiplier|build cost|
 |----------|----------|----------|
-| advanced tech | 1x   | 2000 fe, 1200 si, 200 co, 160 ag, 100 au | 
-| complex tech  | 30x  | 30x advanced tech + 600 uranium | 
+| advanced tech | 1x   | 2000 fe, 1200 si, 300 co, 200 ag, 100 au | 
+| complex tech  | 30x  | 30x advanced tech + 500 uranium | 
 | exotic tech   | 900x | 30x complex tech + 3,000 platinum |
 
 which gives these total ingot costs *per component*:
@@ -29,7 +29,7 @@ which gives these total ingot costs *per component*:
 | exotic tech   | 1,800,000 | 1,080,000 | 270,000 | 180,000 | 90,000 | 15,000 | 3,000 |
 
 ## block durability
-steel and interior plates gain double durability, imparting additional health to anything built from them.  light and heavy armor blocks (except panels) gain 25% damage resistance to all damage.
+steel and interior plates gain double durability, imparting additional health to anything built from them.  light and heavy armor blocks, steel beams, blast doors, and fps walls all gain 25% damage resistance to damage and reduced deformation.
 
 ## warp drive, not jump drive
 jump drives have been removed.  if you do manage to place one, it will not charge.  in their place, this mod uses the warp-style [elite dangerous fsd supercrise drive](https://steamcommunity.com/sharedfiles/filedetails/?id=2640137506) mod, including player-buildable and prototech drives in both large and small sizes.  these drives consume massive amounts of power, but offer speeds up to 50 km/sec.
