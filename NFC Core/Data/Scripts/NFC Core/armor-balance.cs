@@ -1,5 +1,4 @@
 ﻿// armor-balance.cs
-// copyright (c) 2025 by jay baxter (jaybaxter@me.com)
 
 using System.Linq;
 using Sandbox.Definitions;
